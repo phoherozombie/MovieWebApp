@@ -48,5 +48,6 @@
             android:textSize="@dimen/text_size_small" />
 
     </LinearLayout>
+<!--    add love color-->
 
 </androidx.cardview.widget.CardView>
