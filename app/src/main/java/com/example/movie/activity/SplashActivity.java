@@ -27,7 +27,7 @@ public class SplashActivity extends AppCompatActivity {
         initUi();
         startMainActivity();
     }
-
+// add initUI
     private void initUi() {
         TextView tvAboutUsTitle = findViewById(R.id.tv_about_us_title);
         TextView tvAboutUsSlogan = findViewById(R.id.tv_about_us_slogan);
