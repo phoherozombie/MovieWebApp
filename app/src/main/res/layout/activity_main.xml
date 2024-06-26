@@ -33,5 +33,5 @@
         app:itemIconTint="@color/custom_bottom_navigation"
         app:itemTextColor="@color/custom_bottom_navigation"
         android:layout_alignParentBottom="true"/>
-
+<!--Add something-->
 </RelativeLayout>
