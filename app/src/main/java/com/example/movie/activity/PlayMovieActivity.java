@@ -200,4 +200,4 @@ public class PlayMovieActivity extends AppCompatActivity {
         }
     }
 }
-//addd CustomView
+//addd CustomView  ??
