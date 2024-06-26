@@ -11,7 +11,7 @@
 
 ##### 3. Setup API Database using Firebase (Assign to Hoang Phuc and Ngoc Tien) (04/06/2024) to (12/06/2024):
 
-* Task 3.1: Research API related TV shows
-* Task 3.2: Add the API TV Shows to Firebase
+* Task 3.1: Research API Ticket Booking
+* Task 3.2: Add the API Ticket Booking to Firebase
 
 
