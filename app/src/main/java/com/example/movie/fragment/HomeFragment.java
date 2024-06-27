@@ -37,6 +37,7 @@ import java.util.Map;
 public class HomeFragment extends Fragment {
 
     private KProgressHUD progressHUD;
+
     private List<Movie> listMovies;
     private MovieAdapter movieAdapter;
     private EditText edtSearchName;

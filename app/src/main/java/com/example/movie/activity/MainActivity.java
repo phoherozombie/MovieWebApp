@@ -13,6 +13,7 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 public class MainActivity extends AppCompatActivity {
 
     private BottomNavigationView mBottomNavigationView;
+
     private ViewPager2 mViewPager2;
     private TextView tvTitle;
 

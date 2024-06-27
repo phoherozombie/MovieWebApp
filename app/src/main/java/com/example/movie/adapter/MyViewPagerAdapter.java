@@ -17,6 +17,7 @@ public class MyViewPagerAdapter extends FragmentStateAdapter {
 
     @NonNull
     @Override
+
     public Fragment createFragment(int position) {
         switch (position) {
             case 1:

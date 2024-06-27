@@ -6,6 +6,7 @@ public class Movie implements Serializable {
 
     private int id;
     private String title;
+
     private String image;
     private String url;
 

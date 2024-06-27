@@ -10,6 +10,7 @@ import com.google.firebase.database.FirebaseDatabase;
 public class MyApplication extends Application {
 
     private static final String FIREBASE_URL = "https://mobilemovie-bf43a-default-rtdb.firebaseio.com";
+
     private DatabaseReference mDatabaseReference;
 
     public static MyApplication get(Context context) {
