@@ -30,6 +30,7 @@ import java.util.Map;
 public class HistoryFragment extends Fragment {
 
     private List<Movie> listMovies;
+
     private MovieHistoryAdapter movieHistoryAdapter;
 
     @Nullable

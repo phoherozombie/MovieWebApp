@@ -30,6 +30,7 @@ public class PlayMovieActivity extends AppCompatActivity {
 
     private KProgressHUD progressHUD;
     private WebView webView;
+
     private Movie mMovie;
 
     @SuppressLint("SetJavaScriptEnabled")
